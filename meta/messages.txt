@@ -1,3 +1,5 @@
+barc/ECU
+barc/pos_info
 control_msgs/JointControllerState
 control_msgs/JointTolerance
 diagnostic_msgs/DiagnosticArray
